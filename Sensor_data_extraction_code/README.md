@@ -1,0 +1,1 @@
+Both the codes run on Raspberry Pi
